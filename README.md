@@ -1,0 +1,3 @@
+- 👋 Hi, I’m **@RNTeodoro**
+- 👀 I’m interested in study
+- 🌱 I’m currently learning how to use the github
